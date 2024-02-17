@@ -20,7 +20,7 @@ This repository contains a Data-Driven Testing Framework developed in Java for t
 
 ## Website Used for Testing
 
-The framework is designed to test the [Sauce Labs Demo] (https://www.saucedemo.com/) website.
+The framework is designed to test the [Sauce Labs Demo](https://www.saucedemo.com/) website.
 
 ## Installation
 
